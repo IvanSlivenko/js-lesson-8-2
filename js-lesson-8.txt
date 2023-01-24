@@ -1,0 +1,44 @@
+https://www.youtube.com/watch?v=BNAgQeyM_Lg
+
+
+index.HTML
+index.js
+
+new Terminal
+npm init -y
+
+npm install simplelightbox
+
+...................................................
+
+index.js
+
+
+import SimpleLightbox from 'simplelightbox';
+import 'simplelightbox/dist/simple-lightbox.min.css';
+.............................................................
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
